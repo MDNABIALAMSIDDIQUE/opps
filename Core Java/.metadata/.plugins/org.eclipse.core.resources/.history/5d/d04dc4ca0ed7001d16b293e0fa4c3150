@@ -1,0 +1,12 @@
+package funcation.interfac;
+
+@FunctionalInterface
+public interface InterfaceFunctional {
+	
+	void m1();
+	default void m2() {
+		System.out.println("I am Default Method");
+	}
+	
+	
+}

@@ -1,0 +1,16 @@
+package thiss.com;
+
+public class MainThis extends DemoThis {
+	
+	
+	public MainThis(int i, int j) {
+		super(i, j);
+		// TODO Auto-generated constructor stub
+	}
+
+	public static void main(String[] args) {
+		DemoThis demoThis = new DemoThis(30, 40);
+		
+	}
+
+}

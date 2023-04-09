@@ -1,0 +1,5 @@
+package com.interf.sec;
+
+public interface SecoundInterface {
+
+}

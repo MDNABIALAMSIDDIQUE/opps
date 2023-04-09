@@ -1,0 +1,11 @@
+package funcation.interfac;
+
+public class MainClassFun implements InterfaceFunctional{
+
+	@Override
+	public void m1() {
+		System.out.println("I am Abstract Method..");
+		
+	}
+
+}

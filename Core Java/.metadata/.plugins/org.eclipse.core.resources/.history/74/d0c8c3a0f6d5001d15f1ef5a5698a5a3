@@ -1,0 +1,10 @@
+package thiss.com;
+
+public class UserMainCLass extends User {
+	public static void main(String[] args) {
+		
+		User user= new User();
+		user.setUser("nabi123Nabi");
+		user.setPass("Nabi123");
+	}
+}

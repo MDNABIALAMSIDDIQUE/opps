@@ -1,0 +1,9 @@
+package com.method;
+
+public class AddApplication {
+	
+	public void sum(int i,int j) {
+		System.out.println("Total Sum of Number   :   "+i+j);
+	}
+
+}

@@ -1,0 +1,9 @@
+package com.interf.coloing;
+
+public class Student implements Cloneable {
+		
+	String id;
+	String name;
+	int roll;
+	String clas;
+}

@@ -1,0 +1,15 @@
+package com.user.constructors;
+
+public class MainMoblie extends Moblie{
+
+	public MainMoblie(int id, String name, String modal, int rs) {
+		super(id, name, modal, rs);
+		
+	}
+
+	public static void main(String[] args) {
+		Moblie moblie= new Moblie(12, "V19", "Vivo", 20000);
+		System.out.println(moblie);
+	}
+
+}

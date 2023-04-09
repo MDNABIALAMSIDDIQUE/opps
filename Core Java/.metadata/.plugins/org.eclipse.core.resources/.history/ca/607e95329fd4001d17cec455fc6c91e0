@@ -1,0 +1,10 @@
+
+spring.datasource.dbcp2.driver-class-name=oralce.jdbc.driver.OracleDriver
+
+spring.datasource.url=jdbc:oracle:thin:@localhost:1521:xe
+spring.datasource.username=system
+spring.datasource.password=manager
+server.port=2321
+
+
+

@@ -1,0 +1,20 @@
+package test.com.abstractnew;
+
+public class HeroData extends Hero{
+
+	// abstract Method 1
+	@Override
+	void heroName() {
+		System.err.println("SRK");
+		System.out.println("Amir Khan");
+		System.out.println("Salman Khan");
+		
+	}
+  //  abstract Method 2
+	@Override
+	void heroAge() {
+	
+		
+	}
+
+}

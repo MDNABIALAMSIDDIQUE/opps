@@ -1,0 +1,9 @@
+package com.interf.coloing;
+
+public class MainCassStudent {
+	public static void main(String[] args) {
+		 
+		Student student= new Student("Z102", "Zohan", 01, "LKG");
+		
+	}
+}

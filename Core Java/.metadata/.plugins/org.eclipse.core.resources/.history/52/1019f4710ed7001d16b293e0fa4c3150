@@ -1,0 +1,5 @@
+package funcation.interfac;
+
+public interface InterfaceFunctional {
+
+}
