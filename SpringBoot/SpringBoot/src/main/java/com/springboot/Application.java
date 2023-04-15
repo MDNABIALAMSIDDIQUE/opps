@@ -14,7 +14,9 @@ public class Application {
 
     @Bean(name = "local")
     LocalDateTime ldt() {
+    	System.out.println("=================================");
 		System.out.println("Local Date time Predifne Class");
+		System.out.println("=================================");
 		return LocalDateTime.now();
 		
 	}
