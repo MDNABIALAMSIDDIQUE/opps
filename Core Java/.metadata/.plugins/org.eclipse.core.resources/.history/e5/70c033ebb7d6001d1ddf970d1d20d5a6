@@ -1,9 +1,0 @@
-package method.overriding;
-
-public class LoneMainClass  {
-	public static void main(String[] args) {
-		
-		GoldLone goldLone = new GoldLone();
-		goldLone.getIR();
-	}
-}

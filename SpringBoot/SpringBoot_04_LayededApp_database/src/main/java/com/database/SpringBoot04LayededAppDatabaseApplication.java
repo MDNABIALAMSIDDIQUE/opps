@@ -8,6 +8,7 @@ public class SpringBoot04LayededAppDatabaseApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBoot04LayededAppDatabaseApplication.class, args);
+		
 	}
 
 }

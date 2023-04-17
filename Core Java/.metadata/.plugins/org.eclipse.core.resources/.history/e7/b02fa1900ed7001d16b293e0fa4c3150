@@ -1,8 +1,0 @@
-package funcation.interfac;
-
-@FunctionalInterface
-public interface InterfaceFunctional {
-	
-	void m1();
-	
-}
