@@ -28,7 +28,6 @@ INDEX VERSION 1.132+N:\Program By MD NABI ALAM\Core Java\.metadata\.plugins\org.
 3399451877.index
 1541070700.index
 2689117178.index
-1696264553.index
 1302527388.index
 1865797976.index
 202859632.index
