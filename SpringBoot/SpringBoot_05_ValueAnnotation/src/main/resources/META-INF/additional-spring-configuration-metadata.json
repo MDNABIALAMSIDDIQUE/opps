@@ -1,0 +1,42 @@
+{"properties": [
+  {
+    "name": "menu.dosarate",
+    "type": "java.lang.String",
+    "description": "A description for 'menu.dosarate'"
+  },
+  {
+    "name": "menu.biryanirate",
+    "type": "java.lang.String",
+    "description": "A description for 'menu.biryanirate'"
+  },
+  {
+    "name": "menu.water",
+    "type": "java.lang.String",
+    "description": "A description for 'menu.water'"
+  },
+  {
+    "name": "menu.puri",
+    "type": "java.lang.String",
+    "description": "A description for 'menu.puri'"
+  },
+  {
+    "name": "hotal.name",
+    "type": "java.lang.String",
+    "description": "A description for 'hotal.name'"
+  },
+  {
+    "name": "hotal.address",
+    "type": "java.lang.String",
+    "description": "A description for 'hotal.address'"
+  },
+  {
+    "name": "customar.name",
+    "type": "java.lang.String",
+    "description": "A description for 'customar.name'"
+  },
+  {
+    "name": "hotal.phone",
+    "type": "java.lang.String",
+    "description": "A description for 'hotal.phone'"
+  }
+]}
