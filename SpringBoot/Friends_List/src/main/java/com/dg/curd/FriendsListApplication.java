@@ -1,8 +1,6 @@
 package com.dg.curd;
 
-import java.lang.foreign.Linker.Option;
 import java.util.List;
-import java.util.Optional;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -76,13 +74,12 @@ public class FriendsListApplication {
 //			System.out.println("================================================");
 //		});
 //		
-		//Custum and Condition
-		List< Friends_info> name_address=ifrined.findByNameAndAddress("zohan","Gaya");
-				name_address.forEach(n->{
-					System.out.println(n);
-				});
-				System.out.println("-----------------------------------");
-	}
+		List<Friends_info> friens=ifrined.findByName("NABI ALAM");
+		friens.forEach(fri->
+			System.out.println(fri)
+		);
+		System.out.println("==============================");
+			}
 
 	
 }
